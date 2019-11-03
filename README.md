@@ -5,3 +5,11 @@ Requirements
 
 In order to build Human Zoo, you will need Unity 2018.4.12f1. Other versions of Unity may work, but the project is only guaranteed to work with this version.
 
+
+Initializing the Project
+========================
+To start working on Human Zoo, clone the repo to a directory and then open the directory as a Unity project. Unity will create a bunch of cache files but they will be ignored in the repo and are unnecessary for syncing changes between contributers.
+
+Contributing rules
+==================
+When contributing, you must work on separate branches and then make pull requests to master for new features and changes. You can do this from within the Github.com UI. 
