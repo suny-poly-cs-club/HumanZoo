@@ -3,5 +3,5 @@ We're making a game (of sorts) which will let you scan in people's drawings as l
 Requirements
 ============
 
-In order to build Human Zoo, you will need Unity 2018.4.12f1. Other versiona of Unity may work, but the project is only guaranteed to work with this version.
+In order to build Human Zoo, you will need Unity 2018.4.12f1. Other versions of Unity may work, but the project is only guaranteed to work with this version.
 
