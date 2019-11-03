@@ -1,6 +1,5 @@
 We're making a game (of sorts) which will let you scan in people's drawings as little characters into a 2D environment. The 2D characters will then move around in an entertaining fashion so as to delight the masses.
 
-============
 Requirements
 ============
 
